@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:8374436885656e04ce450a1-20469618%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:98981742956e45028007f98-83526770%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6e300ab5535888566b8b1ee91020ac5708cab59b' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blockbestsellers/blockbestsellers.tpl',
-      1 => 1448494580,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '8374436885656e04ce450a1-20469618',
+  'nocache_hash' => '98981742956e45028007f98-83526770',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_566ef58d535101_82644416',
+  'unifunc' => 'content_56e453a486d593_89548383',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_566ef58d535101_82644416')) {function content_566ef58d535101_82644416($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e453a486d593_89548383')) {function content_56e453a486d593_89548383($_smarty_tpl) {?>
 <!-- MODULE Block best sellers -->
 <div id="best-sellers_block_right" class="block products_block">
 	<h4 class="title_block">
@@ -24,171 +24,171 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div class="block_content">
 			<ul class="block_content products-block">
 						<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/4-b-1-2k-pa-rodo-integral-1-2-kg.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/4-small_default/b-1-2k-pa-rodo-integral-1-2-kg.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/335-small_default/l-7-llet-civada-avena-1l.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/4-b-1-2k-pa-rodo-integral-1-2-kg.html" title="">
-                            B 1/2K - PA RODO integral- 1/2 kg
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="">
+                            L 7 - Llet civada (&quot;avena&quot;) 1L
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">1,90 €</span>
+                            <span class="price">1,79 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/3-b-1k-pa-rodo-integral-1-kg.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/3-small_default/b-1k-pa-rodo-integral-1-kg.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/69-platan.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/127-small_default/platan.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/3-b-1k-pa-rodo-integral-1-kg.html" title="">
-                            B 1K - PA RODÓ integral - 1 kg
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/69-platan.html" title="">
+                            Plàtan
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">3,00 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/52-l-21-flam-d-ou-pac-2-ut.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/109-small_default/l-21-flam-d-ou-pac-2-ut.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/65-fruitaverdura.html" title="Fruita/Verdura" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/122-small_default/fruitaverdura.jpg" alt="Fruita/Verdura" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/52-l-21-flam-d-ou-pac-2-ut.html" title="">
-                            L 21 - Flam d&#039;ou - pac 2 ut
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/65-fruitaverdura.html" title="Fruita/Verdura">
+                            Total Fruita/Verdura
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">1,83 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/1-a-1k-pa-pages-ecologic-1-kg.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/1-small_default/a-1k-pa-pages-ecologic-1-kg.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/144-ous.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/207-small_default/ous.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/1-a-1k-pa-pages-ecologic-1-kg.html" title="">
-                            A 1K - PA PAGÈS ecològic 1 Kg
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/144-ous.html" title="">
+                            Ous
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">3,00 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/53-ous-eco-12-un.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/110-small_default/ous-eco-12-un.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/368-mandonguilles.html" title="Mandonguilles" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/472-small_default/mandonguilles.jpg" alt="Mandonguilles" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/53-ous-eco-12-un.html" title="">
-                            OUS ECO - 12 un
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/368-mandonguilles.html" title="Mandonguilles">
+                            Mandonguilles
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">3,81 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/50-llet-civada-xoco-1-l.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/107-small_default/llet-civada-xoco-1-l.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/68-pera.html" title="Pera" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/125-small_default/pera.jpg" alt="Pera" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/50-llet-civada-xoco-1-l.html" title="">
-                            Llet civada + Xoco 1 L.
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/68-pera.html" title="Pera">
+                            Pera
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">2,03 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/49-llet-ametlla-1-l.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/106-small_default/llet-ametlla-1-l.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/365-hamburguesa-amb-sal.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/439-small_default/hamburguesa-amb-sal.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/49-llet-ametlla-1-l.html" title="">
-                            Llet Ametlla 1 L.
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/365-hamburguesa-amb-sal.html" title="">
+                            Hamburguesa amb sal
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">2,15 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/29-l-1-llet-de-vaca-1l.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/85-small_default/l-1-llet-de-vaca-1l.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/161-kiwi.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/224-small_default/kiwi.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/29-l-1-llet-de-vaca-1l.html" title="">
-                            L 1 - Llet de vaca 1L
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/161-kiwi.html" title="">
+                            Kiwi
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">1,72 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/prat-manel/28-flam-de-mato.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/84-small_default/flam-de-mato.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/135-ceba-seca.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/198-small_default/ceba-seca.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/prat-manel/28-flam-de-mato.html" title="">
-                            Flam de mató
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/135-ceba-seca.html" title="">
+                            Ceba seca
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">0,88 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/2-a-1-2k-pa-pages-ecologic-1-2-kg.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/2-small_default/a-1-2k-pa-pages-ecologic-1-2-kg.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/67-poma.html" title="Poma" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/126-small_default/poma.jpg" alt="Poma" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/roca/2-a-1-2k-pa-pages-ecologic-1-2-kg.html" title="">
-                            A 1/2K - PA PAGÈS ecològic 1/2 kg
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/67-poma.html" title="Poma">
+                            Poma
                         </a>
                     </h5>
                     <p class="product-description"></p>
                                             <div class="price-box">
-                            <span class="price">1,90 €</span>
+                            <span class="price">0,00 €</span>
                             
                         </div>
                                     </div>

@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-12-03 01:01:44
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-11 18:52:42
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/dashgoals/views/templates/hook/dashboard_zone_two.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:11695244455f202b4a3a525-97175963%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:140785964956e305ea7bbf08-77294042%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '94bf5c9d4c091be2329fc335b8f1ccfe483b6a04' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/dashgoals/views/templates/hook/dashboard_zone_two.tpl',
-      1 => 1448993191,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '11695244455f202b4a3a525-97175963',
+  'nocache_hash' => '140785964956e305ea7bbf08-77294042',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55f202b4aeb236_67655964',
   'variables' => 
   array (
     'currency' => 0,
@@ -25,8 +23,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'colors' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_56e305ea7ebc74_30164044',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55f202b4aeb236_67655964')) {function content_55f202b4aeb236_67655964($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e305ea7ebc74_30164044')) {function content_56e305ea7ebc74_30164044($_smarty_tpl) {?>
 <div class="clearfix"></div>
 <script>
 	var currency_format = <?php echo intval($_smarty_tpl->tpl_vars['currency']->value->format);?>

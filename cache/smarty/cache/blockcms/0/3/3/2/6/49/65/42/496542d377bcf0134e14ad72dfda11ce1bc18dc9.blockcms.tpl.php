@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:22988349455f1b5d3557a06-49718638%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:146824637156e25389566819-78774353%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '496542d377bcf0134e14ad72dfda11ce1bc18dc9' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blockcms/blockcms.tpl',
-      1 => 1441303312,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '22988349455f1b5d3557a06-49718638',
+  'nocache_hash' => '146824637156e25389566819-78774353',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565ec3993b6808_96844714',
+  'unifunc' => 'content_56e40521c7b3f9_82575102',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565ec3993b6808_96844714')) {function content_565ec3993b6808_96844714($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e40521c7b3f9_82575102')) {function content_56e40521c7b3f9_82575102($_smarty_tpl) {?>
 	<!-- Block CMS module -->
 			<section id="informations_block_left_1" class="block informations_block_left">
 			<p class="title_block">

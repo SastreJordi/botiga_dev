@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:143999669355f1b5d339d6f6-30083580%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:126395099956e25389292822-49304111%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4409aef5e53dd20835462e3f5dccbc43034e021b' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blocksocial/blocksocial.tpl',
-      1 => 1441303312,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '143999669355f1b5d339d6f6-30083580',
+  'nocache_hash' => '126395099956e25389292822-49304111',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565ec4663db1c3_78465918',
+  'unifunc' => 'content_56e31223129e34_48644625',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565ec4663db1c3_78465918')) {function content_565ec4663db1c3_78465918($_smarty_tpl) {?><section id="social_block" class="pull-right">
+<?php if ($_valid && !is_callable('content_56e31223129e34_48644625')) {function content_56e31223129e34_48644625($_smarty_tpl) {?><section id="social_block" class="pull-right">
 	<ul>
 					<li class="facebook">
 				<a class="_blank" href="http://www.facebook.com/elteixitdelaterra">

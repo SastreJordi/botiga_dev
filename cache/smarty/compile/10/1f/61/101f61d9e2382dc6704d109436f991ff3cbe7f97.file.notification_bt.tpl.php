@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-12-03 01:01:49
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-11 18:52:47
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/gamification/views/templates/hook/notification_bt.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:89301711355f1b6351404b7-55880482%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:89699529356e305ef411344-72064156%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '101f61d9e2382dc6704d109436f991ff3cbe7f97' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/gamification/views/templates/hook/notification_bt.tpl',
-      1 => 1448993191,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '89301711355f1b6351404b7-55880482',
+  'nocache_hash' => '89699529356e305ef411344-72064156',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55f1b63523be02_29514200',
   'variables' => 
   array (
     'current_id_tab' => 0,
@@ -32,8 +30,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'next_badges' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_56e305ef50e682_80151416',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55f1b63523be02_29514200')) {function content_55f1b63523be02_29514200($_smarty_tpl) {?><script>
+<?php if ($_valid && !is_callable('content_56e305ef50e682_80151416')) {function content_56e305ef50e682_80151416($_smarty_tpl) {?><script>
 	var current_id_tab = <?php echo intval($_smarty_tpl->tpl_vars['current_id_tab']->value);?>
 ;
 	var current_level_percent = <?php echo intval($_smarty_tpl->tpl_vars['current_level_percent']->value);?>

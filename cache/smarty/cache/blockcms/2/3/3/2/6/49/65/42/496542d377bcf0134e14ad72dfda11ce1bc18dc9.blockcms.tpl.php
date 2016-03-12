@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:22988349455f1b5d3557a06-49718638%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:146824637156e25389566819-78774353%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '496542d377bcf0134e14ad72dfda11ce1bc18dc9' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blockcms/blockcms.tpl',
-      1 => 1441303312,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '22988349455f1b5d3557a06-49718638',
+  'nocache_hash' => '146824637156e25389566819-78774353',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565ec4664dd662_29706567',
+  'unifunc' => 'content_56e31223345323_75648146',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565ec4664dd662_29706567')) {function content_565ec4664dd662_29706567($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e31223345323_75648146')) {function content_56e31223345323_75648146($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Información</h4>
@@ -65,7 +65,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</section>
 		<section class="bottom-footer col-xs-12">
 		<div>
-			&copy; 2015 <a class="_blank" href="http://www.prestashop.com">Tienda online creada con PrestaShop™</a>
+			&copy; 2016 <a class="_blank" href="http://www.prestashop.com">Tienda online creada con PrestaShop™</a>
 		</div>
 	</section>
 		<!-- /Block CMS module footer -->

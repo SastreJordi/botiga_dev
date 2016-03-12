@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-19 23:15:29
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-11 09:45:58
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/cashondelivery/views/templates/hook/payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:146151055656255d71907db5-86431448%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:110566272956e285c6df9de1-98305830%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '3463335812a77a3f3f6414ecf5da8ae6b3020475' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/cashondelivery/views/templates/hook/payment.tpl',
-      1 => 1445288499,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '146151055656255d71907db5-86431448',
+  'nocache_hash' => '110566272956e285c6df9de1-98305830',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56255d71990d51_22688979',
+  'unifunc' => 'content_56e285c6e261c3_68154789',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56255d71990d51_22688979')) {function content_56255d71990d51_22688979($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e285c6e261c3_68154789')) {function content_56e285c6e261c3_68154789($_smarty_tpl) {?>
 <div class="row">
 	<div class="col-xs-12">
         <p class="payment_module">

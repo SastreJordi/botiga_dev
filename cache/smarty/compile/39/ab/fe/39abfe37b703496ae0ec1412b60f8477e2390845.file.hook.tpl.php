@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-09-10 18:54:43
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-11 06:11:35
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/themeconfigurator/views/templates/hook/hook.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:38744547155f1b5d377ae93-70043974%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:56919755356e253875cfcd4-27563922%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '39abfe37b703496ae0ec1412b60f8477e2390845' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/themeconfigurator/views/templates/hook/hook.tpl',
-      1 => 1441303312,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '38744547155f1b5d377ae93-70043974',
+  'nocache_hash' => '56919755356e253875cfcd4-27563922',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55f1b5d37ef4a3_01814254',
+  'unifunc' => 'content_56e2538768f537_92278446',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55f1b5d37ef4a3_01814254')) {function content_55f1b5d37ef4a3_01814254($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_56e2538768f537_92278446')) {function content_56e2538768f537_92278446($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['htmlitems']->value)&&$_smarty_tpl->tpl_vars['htmlitems']->value) {?>
 <div id="htmlcontent_<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hook']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 "<?php if ($_smarty_tpl->tpl_vars['hook']->value=='footer') {?> class="footer-block col-xs-12 col-sm-4"<?php }?>>
@@ -66,7 +66,7 @@ $_smarty_tpl->tpl_vars['hItem']->_loop = true;
 						<?php if ($_smarty_tpl->tpl_vars['hItem']->value['html']) {?>
 							<div class="item-html">
 								<?php echo $_smarty_tpl->tpl_vars['hItem']->value['html'];?>
- <i class="icon-double-angle-right"></i>
+
 							</div>
 						<?php }?>
 					<?php if ($_smarty_tpl->tpl_vars['hItem']->value['url']) {?>

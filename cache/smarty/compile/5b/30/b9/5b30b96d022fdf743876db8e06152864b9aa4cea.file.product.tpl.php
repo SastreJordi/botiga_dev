@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-09-17 18:27:57
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-11 09:23:19
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/product.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:95498339155faea0d0e2eb5-83059589%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:129115700456e2807772a3f3-68383767%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5b30b96d022fdf743876db8e06152864b9aa4cea' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/product.tpl',
-      1 => 1441907075,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '95498339155faea0d0e2eb5-83059589',
+  'nocache_hash' => '129115700456e2807772a3f3-68383767',
   'function' => 
   array (
   ),
@@ -109,9 +109,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55faea0e2310c4_66354515',
+  'unifunc' => 'content_56e280781625e1_74976078',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55faea0e2310c4_66354515')) {function content_55faea0e2310c4_66354515($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_56e280781625e1_74976078')) {function content_56e280781625e1_74976078($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/modifier.date_format.php';
 if (!is_callable('smarty_function_math')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/function.math.php';
 if (!is_callable('smarty_function_cycle')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/function.cycle.php';
 if (!is_callable('smarty_function_counter')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/function.counter.php';

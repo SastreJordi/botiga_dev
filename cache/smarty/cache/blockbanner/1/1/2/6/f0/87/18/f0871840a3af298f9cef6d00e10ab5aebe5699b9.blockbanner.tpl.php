@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:57999465055f1b5d413c498-14087161%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:92688164256e25389d55928-55752190%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'f0871840a3af298f9cef6d00e10ab5aebe5699b9' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/modules/blockbanner/blockbanner.tpl',
-      1 => 1441303312,
+      1 => 1456875413,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '57999465055f1b5d413c498-14087161',
+  'nocache_hash' => '92688164256e25389d55928-55752190',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565eb3d3f0d103_96796826',
+  'unifunc' => 'content_56e403a0d47461_75282432',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565eb3d3f0d103_96796826')) {function content_565eb3d3f0d103_96796826($_smarty_tpl) {?><a href="http://botiga-teixitdelaterra.rhcloud.com/" title="">
+<?php if ($_valid && !is_callable('content_56e403a0d47461_75282432')) {function content_56e403a0d47461_75282432($_smarty_tpl) {?><a href="http://botiga-teixitdelaterra.rhcloud.com/" title="">
 	
 </a>
 <?php }} ?>
