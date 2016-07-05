@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '10387630956e2538a0b3515-88180740',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56e44feb261e42_07968140',
+  'unifunc' => 'content_577679326c44a1_73576011',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56e44feb261e42_07968140')) {function content_56e44feb261e42_07968140($_smarty_tpl) {?><div id="contact-link"  class="is_logged">
+<?php if ($_valid && !is_callable('content_577679326c44a1_73576011')) {function content_577679326c44a1_73576011($_smarty_tpl) {?><div id="contact-link"  class="is_logged">
 	<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/contact-us" title="Contacteu-nos">Contacteu-nos</a>
 </div>
 	<span class="shop-phone is_logged">

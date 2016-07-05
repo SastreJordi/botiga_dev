@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '206587710556e253880d8000-38644123',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56e486de1154e6_75942228',
+  'unifunc' => 'content_57737461368903_52416563',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56e486de1154e6_75942228')) {function content_56e486de1154e6_75942228($_smarty_tpl) {?><ul id="homefeatured" class="homefeatured tab-pane">
+<?php if ($_valid && !is_callable('content_57737461368903_52416563')) {function content_57737461368903_52416563($_smarty_tpl) {?><ul id="homefeatured" class="homefeatured tab-pane">
 	<li class="alert alert-info">No hi ha productes destacats ara mateix.</li>
 </ul>
 <?php }} ?>

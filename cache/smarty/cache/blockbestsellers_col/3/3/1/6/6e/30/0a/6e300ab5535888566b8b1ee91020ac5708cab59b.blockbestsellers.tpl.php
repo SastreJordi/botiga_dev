@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '98981742956e45028007f98-83526770',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56e453a486d593_89548383',
+  'unifunc' => 'content_5779899b80b735_72127382',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56e453a486d593_89548383')) {function content_56e453a486d593_89548383($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5779899b80b735_72127382')) {function content_5779899b80b735_72127382($_smarty_tpl) {?>
 <!-- MODULE Block best sellers -->
 <div id="best-sellers_block_right" class="block products_block">
 	<h4 class="title_block">
@@ -24,23 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div class="block_content">
 			<ul class="block_content products-block">
 						<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/335-small_default/l-7-llet-civada-avena-1l.jpg" alt="" />
-				</a>
-				<div class="product-content">
-                	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="">
-                            L 7 - Llet civada (&quot;avena&quot;) 1L
-                        </a>
-                    </h5>
-                    <p class="product-description"></p>
-                                            <div class="price-box">
-                            <span class="price">1,79 €</span>
-                            
-                        </div>
-                                    </div>
-			</li>
-					<li class="clearfix">
 				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/69-platan.html" title="" class="products-block-image content_img clearfix">
 					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/127-small_default/platan.jpg" alt="" />
 				</a>
@@ -75,6 +58,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                                     </div>
 			</li>
 					<li class="clearfix">
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/335-small_default/l-7-llet-civada-avena-1l.jpg" alt="" />
+				</a>
+				<div class="product-content">
+                	<h5>
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/vivo/269-l-7-llet-civada-avena-1l.html" title="">
+                            L 7 - Llet civada (&quot;avena&quot;) 1L
+                        </a>
+                    </h5>
+                    <p class="product-description"></p>
+                                            <div class="price-box">
+                            <span class="price">1,79 €</span>
+                            
+                        </div>
+                                    </div>
+			</li>
+					<li class="clearfix">
 				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/144-ous.html" title="" class="products-block-image content_img clearfix">
 					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/207-small_default/ous.jpg" alt="" />
 				</a>
@@ -82,6 +82,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 	<h5>
                     	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/144-ous.html" title="">
                             Ous
+                        </a>
+                    </h5>
+                    <p class="product-description"></p>
+                                            <div class="price-box">
+                            <span class="price">0,00 €</span>
+                            
+                        </div>
+                                    </div>
+			</li>
+					<li class="clearfix">
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/134-carxofa.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/197-small_default/carxofa.jpg" alt="" />
+				</a>
+				<div class="product-content">
+                	<h5>
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/134-carxofa.html" title="">
+                            Carxofa
                         </a>
                     </h5>
                     <p class="product-description"></p>
@@ -126,13 +143,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/365-hamburguesa-amb-sal.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/439-small_default/hamburguesa-amb-sal.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/584-maduixes.html" title="Maduixes" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/670-small_default/maduixes.jpg" alt="Maduixes" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/carns-bayo/365-hamburguesa-amb-sal.html" title="">
-                            Hamburguesa amb sal
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/584-maduixes.html" title="Maduixes">
+                            Maduixes
                         </a>
                     </h5>
                     <p class="product-description"></p>
@@ -143,13 +160,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                                     </div>
 			</li>
 					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/161-kiwi.html" title="" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/224-small_default/kiwi.jpg" alt="" />
+				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/146-patata.html" title="" class="products-block-image content_img clearfix">
+					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/209-small_default/patata.jpg" alt="" />
 				</a>
 				<div class="product-content">
                 	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/161-kiwi.html" title="">
-                            Kiwi
+                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/146-patata.html" title="">
+                            Patata
                         </a>
                     </h5>
                     <p class="product-description"></p>
@@ -167,23 +184,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 	<h5>
                     	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/135-ceba-seca.html" title="">
                             Ceba seca
-                        </a>
-                    </h5>
-                    <p class="product-description"></p>
-                                            <div class="price-box">
-                            <span class="price">0,00 €</span>
-                            
-                        </div>
-                                    </div>
-			</li>
-					<li class="clearfix">
-				<a href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/67-poma.html" title="Poma" class="products-block-image content_img clearfix">
-					<img class="replace-2x img-responsive" src="http://botiga-teixitdelaterra.rhcloud.com/126-small_default/poma.jpg" alt="Poma" />
-				</a>
-				<div class="product-content">
-                	<h5>
-                    	<a class="product-name" href="http://botiga-teixitdelaterra.rhcloud.com/ca/la-feixa-verda/67-poma.html" title="Poma">
-                            Poma
                         </a>
                     </h5>
                     <p class="product-description"></p>

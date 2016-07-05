@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '106450963956e25389921560-21883062',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56e31223410542_15732607',
+  'unifunc' => 'content_5778e9fccc4ee8_87639915',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56e31223410542_15732607')) {function content_56e31223410542_15732607($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5778e9fccc4ee8_87639915')) {function content_5778e9fccc4ee8_87639915($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>
