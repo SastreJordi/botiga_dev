@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:19905615356e253874976e2-12113795%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:206736389257c36425bd8024-34019727%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '99414fe28e318063ca31f5713c17a91be5cd90d4' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl',
-      1 => 1456875413,
+      1 => 1459875527,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19905615356e253874976e2-12113795',
+  'nocache_hash' => '206736389257c36425bd8024-34019727',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5778ec331c3c65_15591590',
+  'unifunc' => 'content_584d7eb098b792_48710080',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5778ec331c3c65_15591590')) {function content_5778ec331c3c65_15591590($_smarty_tpl) {?>	<!-- Menu -->
+<?php if ($_valid && !is_callable('content_584d7eb098b792_48710080')) {function content_584d7eb098b792_48710080($_smarty_tpl) {?>	<!-- Menu -->
 	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
 		<div class="cat-title">Menú</div>
 		<ul class="sf-menu clearfix menu-content">
@@ -26,6 +26,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <li><a href="http://botiga-teixitdelaterra.rhcloud.com/es/8__niko" title="Niko">Niko</a></li>
 <li><a href="http://botiga-teixitdelaterra.rhcloud.com/es/9__carns-bayo" title="Carns Bayo">Carns Bayo</a></li>
 <li><a href="http://botiga-teixitdelaterra.rhcloud.com/es/7__la-cleda" title="La Cleda">La Cleda</a></li>
+<li><a href="http://botiga-teixitdelaterra.rhcloud.com/es/10__toni-p" title="Toni P.">Toni P.</a></li>
 
 					</ul>
 	</div>

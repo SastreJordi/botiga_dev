@@ -1,28 +1,28 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 19:01:54
+<?php /* Smarty version Smarty-3.1.19, created on 2016-10-08 00:42:42
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/admin292kwuviq/themes/default/template/controllers/modules/configure.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:66686427856eb2f292e3c60-11791348%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:212520519757c75696edda52-38674324%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'b5e3a127d0d81842d08f61c80ce370bca59e3990' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/admin292kwuviq/themes/default/template/controllers/modules/configure.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
     'bed4a4d3e07e9671f978e424d0ae58d91492500b' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/admin292kwuviq/themes/default/template/page_header_toolbar.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '66686427856eb2f292e3c60-11791348',
+  'nocache_hash' => '212520519757c75696edda52-38674324',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56eb2f2969ba38_98684171',
+  'unifunc' => 'content_57c75697164508_44485830',
   'variables' => 
   array (
     'title' => 0,
@@ -39,7 +39,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56eb2f2969ba38_98684171')) {function content_56eb2f2969ba38_98684171($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57c75697164508_44485830')) {function content_57c75697164508_44485830($_smarty_tpl) {?>
 
 
 <?php if (!isset($_smarty_tpl->tpl_vars['title']->value)&&isset($_smarty_tpl->tpl_vars['page_header_toolbar_title']->value)) {?>

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-25 09:02:17
+<?php /* Smarty version Smarty-3.1.19, created on 2016-10-06 17:51:08
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/pdf/footer.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:223173451571dc0f9078349-45537898%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:109275082857f672ec9befe1-13633212%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'cda16017075d76dec5b7adb3df1e9884d64f32bc' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/pdf/footer.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '223173451571dc0f9078349-45537898',
+  'nocache_hash' => '109275082857f672ec9befe1-13633212',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_571dc0f90b49a9_55875343',
+  'unifunc' => 'content_57f672eca5cf86_85668231',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_571dc0f90b49a9_55875343')) {function content_571dc0f90b49a9_55875343($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f672eca5cf86_85668231')) {function content_57f672eca5cf86_85668231($_smarty_tpl) {?>
 <table style="width: 100%;">
 	<tr>
 		<td style="text-align: center; font-size: 6pt; color: #444;  width:87%;">

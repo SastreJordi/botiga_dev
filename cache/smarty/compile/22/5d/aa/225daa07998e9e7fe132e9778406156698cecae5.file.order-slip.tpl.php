@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-13 08:40:25
+<?php /* Smarty version Smarty-3.1.19, created on 2016-10-23 17:52:06
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/order-slip.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:492984782570de9d90d2aa2-09831233%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:926499657580cdca630b628-80999314%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '225daa07998e9e7fe132e9778406156698cecae5' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/order-slip.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '492984782570de9d90d2aa2-09831233',
+  'nocache_hash' => '926499657580cdca630b628-80999314',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_570de9d91a6031_76581306',
+  'unifunc' => 'content_580cdca652e8d9_59310893',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_570de9d91a6031_76581306')) {function content_570de9d91a6031_76581306($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/modifier.regex_replace.php';
+<?php if ($_valid && !is_callable('content_580cdca652e8d9_59310893')) {function content_580cdca652e8d9_59310893($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/tools/smarty/plugins/modifier.regex_replace.php';
 ?>
 
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?><a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('my-account',true), ENT_QUOTES, 'UTF-8', true);?>

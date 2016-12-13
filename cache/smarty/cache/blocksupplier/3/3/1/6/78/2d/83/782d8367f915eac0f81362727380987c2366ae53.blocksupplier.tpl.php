@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:183258606656e45028540dd3-27867334%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:132057998157c9a073cc0975-13744115%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '782d8367f915eac0f81362727380987c2366ae53' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blocksupplier/blocksupplier.tpl',
-      1 => 1456875413,
+      1 => 1459875527,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '183258606656e45028540dd3-27867334',
+  'nocache_hash' => '132057998157c9a073cc0975-13744115',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5777c18e544547_13709423',
+  'unifunc' => 'content_584dd0f72f78d0_36234550',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5777c18e544547_13709423')) {function content_5777c18e544547_13709423($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_584dd0f72f78d0_36234550')) {function content_584dd0f72f78d0_36234550($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block">
@@ -60,7 +60,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				                La Cleda
                 					</a>
                 				</li>
-																																																																																</ul>
+																																																																																							</ul>
 										<form action="/index.php" method="get">
 					<div class="form-group selector1">
 						<select class="form-control" name="supplier_list">
@@ -77,6 +77,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/21__puigcerver">Puigcerver</option>
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/1__roca">Roca</option>
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/4__stock">Stock</option>
+													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/23__teixit-de-la-terra">Teixit de la Terra</option>
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/10__toni-p">Toni P.</option>
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/20__varis">Varis</option>
 													<option value="http://botiga-teixitdelaterra.rhcloud.com/ca/3__vivo">Vivo</option>

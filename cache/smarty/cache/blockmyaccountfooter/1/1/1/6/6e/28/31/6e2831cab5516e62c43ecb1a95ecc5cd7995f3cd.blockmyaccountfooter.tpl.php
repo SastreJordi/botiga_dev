@@ -1,21 +1,21 @@
-<?php /*%%SmartyHeaderCode:145345764256e253897eb639-06783848%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:183097167657c753dc22a654-64338142%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6e2831cab5516e62c43ecb1a95ecc5cd7995f3cd' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/themes/default-bootstrap/modules/blockmyaccountfooter/blockmyaccountfooter.tpl',
-      1 => 1456875413,
+      1 => 1459875527,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '145345764256e253897eb639-06783848',
+  'nocache_hash' => '183097167657c753dc22a654-64338142',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_577374629141a2_09816223',
+  'unifunc' => 'content_584d3f76c40a37_20220334',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_577374629141a2_09816223')) {function content_577374629141a2_09816223($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_584d3f76c40a37_20220334')) {function content_584d3f76c40a37_20220334($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://botiga-teixitdelaterra.rhcloud.com/ca/my-account" title="Gestionar el meu compte de client" rel="nofollow">El meu compte</a></h4>

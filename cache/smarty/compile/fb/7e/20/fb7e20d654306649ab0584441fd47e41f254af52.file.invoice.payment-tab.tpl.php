@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-25 09:02:17
+<?php /* Smarty version Smarty-3.1.19, created on 2016-10-06 17:51:09
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/pdf/invoice.payment-tab.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1540326780571dc0f9a7dc84-68227153%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:108318458457f672ed66e843-20989653%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'fb7e20d654306649ab0584441fd47e41f254af52' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/pdf/invoice.payment-tab.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1540326780571dc0f9a7dc84-68227153',
+  'nocache_hash' => '108318458457f672ed66e843-20989653',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_571dc0f9a90c80_70301274',
+  'unifunc' => 'content_57f672ed6836d2_52914056',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_571dc0f9a90c80_70301274')) {function content_571dc0f9a90c80_70301274($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f672ed6836d2_52914056')) {function content_57f672ed6836d2_52914056($_smarty_tpl) {?>
 <table id="payment-tab" width="100%">
 	<tr>
 		<td class="payment center small grey bold" width="44%"><?php echo smartyTranslate(array('s'=>'Payment Method','pdf'=>'true'),$_smarty_tpl);?>

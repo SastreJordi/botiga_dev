@@ -1,39 +1,59 @@
-Dia execucio Tractament comandes: 2016-07-04 00:00:00
+Dia execucio Tractament comandes: 2016-12-12 00:00:00
 
 Comandes que es tractaran
 id_order  	reference 	current_state  	date_add            
 
 ===================================================================
 
-333       	HRDKIHHBN 	2              	2016-07-03 23:11:22 
+605       	DWCKCXXMN 	2              	2016-12-11 22:25:38 
 
-325       	TGFYMUJWE 	3              	2016-06-30 09:08:04 
+609       	VNWDJPILI 	2              	2016-12-11 23:19:57 
 
-326       	QRJGEQYXW 	3              	2016-07-01 16:20:53 
+589       	MQOCXMAOG 	3              	2016-12-07 07:57:59 
 
-327       	BTKRNNEWS 	3              	2016-07-02 23:16:59 
+591       	RNSUEAYLC 	3              	2016-12-09 19:14:16 
 
-328       	UYWISXKRQ 	3              	2016-07-03 12:47:47 
+592       	HYJJNAUXT 	3              	2016-12-10 09:26:10 
 
-329       	YNNJBLMDO 	3              	2016-07-03 19:34:02 
+593       	NWMEFCKAC 	3              	2016-12-10 23:59:23 
 
-330       	TVBSAKDUI 	3              	2016-07-03 21:01:34 
+594       	NQBYSGGQS 	3              	2016-12-11 13:22:42 
 
-331       	FUEETZGWV 	3              	2016-07-03 22:19:29 
+595       	MPYOCBMCW 	3              	2016-12-11 14:21:16 
 
-332       	EKVRJCCFY 	3              	2016-07-03 22:23:47 
+596       	WCHSBNYAD 	3              	2016-12-11 16:49:15 
 
-334       	BUGPVCZHU 	3              	2016-07-03 23:55:59 
+597       	HYUYWDKRS 	3              	2016-12-11 17:33:32 
+
+598       	XFYPLCLCE 	3              	2016-12-11 17:47:44 
+
+599       	NIOHWXYDQ 	3              	2016-12-11 18:23:35 
+
+600       	FZSOQRVWO 	3              	2016-12-11 19:57:16 
+
+601       	JJUKFUXCF 	3              	2016-12-11 20:13:00 
+
+602       	GLXAPUVHP 	3              	2016-12-11 20:16:49 
+
+603       	BOAMDMAIT 	3              	2016-12-11 20:38:22 
+
+604       	WWLIQTAKO 	3              	2016-12-11 22:11:54 
+
+606       	ACGUTOOWT 	3              	2016-12-11 23:05:57 
+
+607       	GUBGHDUMC 	3              	2016-12-11 23:08:32 
+
+608       	AFBDPEIZM 	3              	2016-12-11 23:11:20 
 
 Proveidor: 1    	Roca           	flecaroca@gremipa.com	1    
 
-Productes: 4
+Productes: 5
 Proveidor: 2    	Prat-Manel     	manel.lacera@yahoo.es	1    
 
-Productes: 2
+Productes: 7
 Proveidor: 3    	Vivo           	j06vivo@yahoo.es    	1    
 
-Productes: 8
+Productes: 13
 Proveidor: 4    	Stock          	botigateixit@gmail.com	3    
 
 Proveidor: 5    	Moli de Bonsfills	gemma.raset@gmail.com	1    
@@ -41,19 +61,19 @@ Proveidor: 5    	Moli de Bonsfills	gemma.raset@gmail.com	1
 No hi ha productes
 Proveidor: 6    	La Feixa Verda 	natixavi@hotmail.com	2    
 
-Productes: 113
+Productes: 188
 Proveidor: 7    	La Cleda       	david@redcluster.com	1    
 
 Productes: 7
 Proveidor: 8    	Niko           	pa@massamareforn.com	1    
 
-Productes: 1
+Productes: 2
 Proveidor: 9    	Carns Bayo     	rosabayo@yahoo.com  	2    
 
-Productes: 4
+Productes: 7
 Proveidor: 10   	Toni P.        	toniporcar@gmail.com	2    
 
-No hi ha productes
+Productes: 7
 Proveidor: 18   	Cal Mateu      	sastrej@gmail.com   	4    
 
 Proveidor: 19   	BioBio         	sastrej@gmail.com   	4    
@@ -64,14 +84,26 @@ Proveidor: 21   	Puigcerver     	sastrej@gmail.com   	4
 
 Proveidor: 22   	Cal Marti      	sastrej@gmail.com   	4    
 
+Proveidor: 23   	Teixit de la Terra	sastrej@gmail.com   	4    
+
 Tancament de comandes
-Comanda numero: 333 tancada
-Comanda numero: 325 tancada
-Comanda numero: 326 tancada
-Comanda numero: 327 tancada
-Comanda numero: 328 tancada
-Comanda numero: 329 tancada
-Comanda numero: 330 tancada
-Comanda numero: 331 tancada
-Comanda numero: 332 tancada
-Comanda numero: 334 tancada
+Comanda numero: 605 tancada
+Comanda numero: 609 tancada
+Comanda numero: 589 tancada
+Comanda numero: 591 tancada
+Comanda numero: 592 tancada
+Comanda numero: 593 tancada
+Comanda numero: 594 tancada
+Comanda numero: 595 tancada
+Comanda numero: 596 tancada
+Comanda numero: 597 tancada
+Comanda numero: 598 tancada
+Comanda numero: 599 tancada
+Comanda numero: 600 tancada
+Comanda numero: 601 tancada
+Comanda numero: 602 tancada
+Comanda numero: 603 tancada
+Comanda numero: 604 tancada
+Comanda numero: 606 tancada
+Comanda numero: 607 tancada
+Comanda numero: 608 tancada

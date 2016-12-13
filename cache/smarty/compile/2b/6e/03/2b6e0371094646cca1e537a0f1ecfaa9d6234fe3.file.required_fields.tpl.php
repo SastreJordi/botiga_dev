@@ -1,20 +1,22 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-07 22:10:56
+<?php /* Smarty version Smarty-3.1.19, created on 2016-10-21 22:59:08
          compiled from "/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/admin292kwuviq/themes/default/template/helpers/required_fields.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17391504615706bed0595000-58670609%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:134647705357d86d23b57910-61244651%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '2b6e0371094646cca1e537a0f1ecfaa9d6234fe3' => 
     array (
       0 => '/var/lib/openshift/55e615f62d5271473f000022/app-root/runtime/repo/admin292kwuviq/themes/default/template/helpers/required_fields.tpl',
-      1 => 1459875527,
+      1 => 1475601738,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17391504615706bed0595000-58670609',
+  'nocache_hash' => '134647705357d86d23b57910-61244651',
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_57d86d23b807c7_38297449',
   'variables' => 
   array (
     'current' => 0,
@@ -25,10 +27,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'required_fields' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5706bed0607be0_04062448',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5706bed0607be0_04062448')) {function content_5706bed0607be0_04062448($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57d86d23b807c7_38297449')) {function content_57d86d23b807c7_38297449($_smarty_tpl) {?>
 <a class="btn btn-default" href="#" onclick="if ($('.requiredFieldsParameters:visible').length == 0) $('.requiredFieldsParameters').slideDown('slow'); else $('.requiredFieldsParameters').slideUp('slow'); return false;">
 	<i class="icon-plus-sign"></i> <?php echo smartyTranslate(array('s'=>'Set required fields for this section'),$_smarty_tpl);?>
 
