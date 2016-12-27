@@ -210,7 +210,7 @@ if ($rprov->num_rows > 0) {
     file_put_contents ($log, $dadeslog, FILE_APPEND);
     
     // Seleccionem les botigues (grups) gestionades
-	$sql = "SELECT id_group,name FROM ps_group_lang WHERE (id_lang=1 AND id_group IN (4,5));";
+	$sql = "SELECT id_group,name FROM ps_group_lang WHERE (id_lang=1 AND id_group IN (4));";
 	$lgroup = $conn->query($sql);
     
     if ($lgroup->num_rows > 0) {
@@ -253,7 +253,7 @@ if ($rprov->num_rows > 0) {
 				// Gravem les dades de la comanda en el fitxer destinat a aquest proveidor en format HTML i a partir de la plantilla
 				$fprov = "../gestio/".date("Y")."/".date("Ymd").$provrow["name"].".html";
 				$dadeslog= file_get_contents("./plantilles/mstg_prov.htm_");
-				$dadeslog.= "<p>Local: La Quartera<br>Prove&iuml;dor:".$provrow["name"]."</p>".PHP_EOL;
+				$dadeslog.= "<p>Local: ".$lgrouprow[name]."<br>Prove&iuml;dor:".$provrow["name"]."</p>".PHP_EOL;
 				$dadeslog.= "<table class='TFtable'>".PHP_EOL."<tr><th>Producte</th><th>Quantitat</th><th>Prove&iuml;dor</th></tr>".PHP_EOL;
 				while($prodrow = $rproductes->fetch_assoc()) {
 					$dadeslog.= "<tr><td>".$prodrow['Producte']."</td><td>".$prodrow['Quantitat']."</td><td>".$prodrow['Proveidor']."</td></tr>".PHP_EOL;
@@ -265,7 +265,7 @@ if ($rprov->num_rows > 0) {
 				// Enviem la comanda al proveidor
 				echo "Enviem correu electronic\r\n";
 				echo "Codi Proveidor: ".$provrow["id_supplier"]."\r\nNom: ".$provrow["name"]."\r\n";
-				$Subject = "Teixit de la terra, La Quartera, comanda: ".$provrow["name"]." ".$avui;
+				$Subject = "Teixit de la terra, ".$lgrouprow[name].", comanda: ".$provrow["name"]." ".$avui;
 				$res = EnviaCorreu ($fprov,$Destinatari,$Subject);
 				if ($res != 0) { echo $res;
 				} else { echo "Correu enviat correctament \r\n";
