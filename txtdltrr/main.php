@@ -366,6 +366,12 @@ if ($rprov->num_rows > 0) {
     exit;
 }
 
+// Sortim de l'execucio per no modificar l'estat de les comandes i no enviar correu electronic
+    $dadeslog = "No hi ha comandes a tractar: 0 results".PHP_EOL;
+    file_put_contents ($log, $dadeslog, FILE_APPEND);
+    $conn->close();
+    exit;
+
 // Recuperem les comandes que hem tractat i que canviarem a estatus 14 
 $sql = "SELECT p.id_order, p.reference, p.current_state, p.date_add
 FROM ps_orders p
