@@ -13,6 +13,8 @@ echo $fitxcos."\r\n";
 echo $Desti."\r\n";
 echo $Subject."\r\n";
 
+return 0;
+
 //Create a new PHPMailer instance
 $mail = new PHPMailer;
 $mail->isSMTP();
