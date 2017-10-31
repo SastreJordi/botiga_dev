@@ -11,26 +11,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '177232709757c755d46b7883-70209642',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_584d4242913893_87382305',
+  'unifunc' => 'content_59b2265455d7e6_88100050',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_584d4242913893_87382305')) {function content_584d4242913893_87382305($_smarty_tpl) {?><!-- Module HomeSlider -->
+<?php if ($_valid && !is_callable('content_59b2265455d7e6_88100050')) {function content_59b2265455d7e6_88100050($_smarty_tpl) {?><!-- Module HomeSlider -->
     		<div id="homepage-slider">
 						<ul id="homeslider" style="max-height:990px;">
 															<li class="homeslider-container">
-							<a href="http://picvalles.communia.info" title="IV fira agroecològica del Vallès">
-								<img src="http://botiga-teixitdelaterra.rhcloud.com/modules/homeslider/images/a364008279a53a45800d4cff6cce5234f298394c_cartell_definitiu_2.jpg" width="700" height="990" alt="IV fira agroecol&ograve;gica del Vall&egrave;s" />
-							</a>
-													</li>
-																				<li class="homeslider-container">
-							<a href="http://picvalles.communia.info" title="Setmana Agroecologia">
-								<img src="http://botiga-teixitdelaterra.rhcloud.com/modules/homeslider/images/4890f9247e1bc80a136eec59c1ad07aa52e2579a_web_penjar.jpg" width="700" height="990" alt="Setmana Agroecologia" />
-							</a>
-													</li>
-																				<li class="homeslider-container">
-							<a href="http://www.heura-cet.cat/" title="Combatre l&#039;estres a través de l&#039;alimentació">
-								<img src="http://botiga-teixitdelaterra.rhcloud.com/modules/homeslider/images/2502621cfd5f4ba2f1caca6a5b3461e131ce752c_heura.jpg" width="779" height="293" alt="Combatre l&#039;estres a trav&eacute;s de l&#039;alimentaci&oacute;" />
+							<a href="http://picvalles.pangea.org" title="VI Fira agroecològica del Vallès">
+								<img src="http://botiga-teixitdelaterra.rhcloud.com/modules/homeslider/images/ed32944ca10418ddd4513578af429e1237267611_VI Fira agroecologica 2.1.jpg" width="700" height="990" alt="VI Fira agroecol&ograve;gica del Vall&egrave;s" />
 							</a>
 													</li>
 												</ul>

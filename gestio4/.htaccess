@@ -1,0 +1,5 @@
+AuthUserFile /opt/app-root/src/txtdltrr/.gestio4_admin
+AuthName "Administracio La Quartera"
+AuthType Basic
+Require valid-user
+Options -Indexes

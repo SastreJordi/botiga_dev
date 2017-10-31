@@ -1,109 +1,181 @@
-Dia execucio Tractament comandes: 2016-12-12 00:00:00
+Dia execucio Tractament comandes: 2017-09-25 00:00:00
 
 Comandes que es tractaran
 id_order  	reference 	current_state  	date_add            
 
 ===================================================================
 
-605       	DWCKCXXMN 	2              	2016-12-11 22:25:38 
+1159      	JPHCSZBWH 	2              	2017-09-23 19:38:50 
 
-609       	VNWDJPILI 	2              	2016-12-11 23:19:57 
+1156      	DEDSVAXPL 	3              	2017-09-21 08:08:23 
 
-589       	MQOCXMAOG 	3              	2016-12-07 07:57:59 
+1157      	MQKKVQLHA 	3              	2017-09-23 12:44:01 
 
-591       	RNSUEAYLC 	3              	2016-12-09 19:14:16 
+1158      	VPSKLPFCZ 	3              	2017-09-23 15:39:06 
 
-592       	HYJJNAUXT 	3              	2016-12-10 09:26:10 
+1160      	TMUPCZRZU 	3              	2017-09-24 09:39:47 
 
-593       	NWMEFCKAC 	3              	2016-12-10 23:59:23 
+1161      	DFHMUAPQN 	3              	2017-09-24 14:19:29 
 
-594       	NQBYSGGQS 	3              	2016-12-11 13:22:42 
+1162      	GKXRTSCUV 	3              	2017-09-24 16:31:38 
 
-595       	MPYOCBMCW 	3              	2016-12-11 14:21:16 
+1163      	PLDWXHYOB 	3              	2017-09-24 20:13:28 
 
-596       	WCHSBNYAD 	3              	2016-12-11 16:49:15 
+1164      	JVNTEZSRX 	3              	2017-09-24 21:03:15 
 
-597       	HYUYWDKRS 	3              	2016-12-11 17:33:32 
+1165      	NUMSMVLOJ 	3              	2017-09-24 21:09:16 
 
-598       	XFYPLCLCE 	3              	2016-12-11 17:47:44 
+1166      	EJLUNZXJC 	3              	2017-09-24 21:33:46 
 
-599       	NIOHWXYDQ 	3              	2016-12-11 18:23:35 
+1167      	GIUTJMBLX 	3              	2017-09-24 21:37:41 
 
-600       	FZSOQRVWO 	3              	2016-12-11 19:57:16 
+1168      	CMZZUPGTX 	3              	2017-09-24 21:52:14 
 
-601       	JJUKFUXCF 	3              	2016-12-11 20:13:00 
+1169      	LURQWZMCW 	3              	2017-09-24 23:48:40 
 
-602       	GLXAPUVHP 	3              	2016-12-11 20:16:49 
-
-603       	BOAMDMAIT 	3              	2016-12-11 20:38:22 
-
-604       	WWLIQTAKO 	3              	2016-12-11 22:11:54 
-
-606       	ACGUTOOWT 	3              	2016-12-11 23:05:57 
-
-607       	GUBGHDUMC 	3              	2016-12-11 23:08:32 
-
-608       	AFBDPEIZM 	3              	2016-12-11 23:11:20 
+1170      	GXRDRFIPK 	3              	2017-09-24 23:56:44 
 
 Proveidor: 1    	Roca           	flecaroca@gremipa.com	1    
 
-Productes: 5
+Botiga/grup: 4    	La Quartera    
+
+Productes: 4
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 8
 Proveidor: 2    	Prat-Manel     	manel.lacera@yahoo.es	1    
 
-Productes: 7
-Proveidor: 3    	Vivo           	j06vivo@yahoo.es    	1    
+Botiga/grup: 4    	La Quartera    
 
-Productes: 13
-Proveidor: 4    	Stock          	botigateixit@gmail.com	3    
-
-Proveidor: 5    	Moli de Bonsfills	gemma.raset@gmail.com	1    
+Productes: 5
+Botiga/grup: 5    	Creu Alta      
 
 No hi ha productes
-Proveidor: 6    	La Feixa Verda 	natixavi@hotmail.com	2    
+Proveidor: 3    	Vivo           	j06vivo@yahoo.es    	1    
 
-Productes: 188
+Botiga/grup: 4    	La Quartera    
+
+Productes: 7
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 1
+Proveidor: 4    	Stock          	sastrej@gmail.com   	2    
+
+Botiga/grup: 4    	La Quartera    
+
+No hi ha productes
+Botiga/grup: 5    	Creu Alta      
+
+No hi ha productes
+Proveidor: 5    	Moli de Bonsfills	gemma.raset@gmail.com	1    
+
+Botiga/grup: 4    	La Quartera    
+
+No hi ha productes
+Botiga/grup: 5    	Creu Alta      
+
+No hi ha productes
 Proveidor: 7    	La Cleda       	david@redcluster.com	1    
 
-Productes: 7
-Proveidor: 8    	Niko           	pa@massamareforn.com	1    
+Botiga/grup: 4    	La Quartera    
 
-Productes: 2
+Productes: 6
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 15
 Proveidor: 9    	Carns Bayo     	rosabayo@yahoo.com  	2    
 
-Productes: 7
+Botiga/grup: 4    	La Quartera    
+
+Productes: 4
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 1
 Proveidor: 10   	Toni P.        	toniporcar@gmail.com	2    
 
-Productes: 7
+Botiga/grup: 4    	La Quartera    
+
+No hi ha productes
+Botiga/grup: 5    	Creu Alta      
+
+No hi ha productes
 Proveidor: 18   	Cal Mateu      	sastrej@gmail.com   	4    
+
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
 
 Proveidor: 19   	BioBio         	sastrej@gmail.com   	4    
 
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
+
 Proveidor: 20   	Varis          	sastrej@gmail.com   	4    
+
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
 
 Proveidor: 21   	Puigcerver     	sastrej@gmail.com   	4    
 
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
+
 Proveidor: 22   	Cal Marti      	sastrej@gmail.com   	4    
+
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
 
 Proveidor: 23   	Teixit de la Terra	sastrej@gmail.com   	4    
 
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
+
+Proveidor: 24   	Massaxuxes     	sastrej@gmail.com   	4    
+
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
+
+Proveidor: 25   	La Catxaruda   	gerard@lacatxaruda.cat	1    
+
+Botiga/grup: 4    	La Quartera    
+
+Productes: 28
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 21
+Proveidor: 26   	La Veganeria   	laveganeria@gmail.com	1    
+
+Botiga/grup: 4    	La Quartera    
+
+Productes: 6
+Botiga/grup: 5    	Creu Alta      
+
+Productes: 11
+Proveidor: 27   	Fem arrels     	sastrej@gmail.com   	4    
+
+Botiga/grup: 4    	La Quartera    
+
+Botiga/grup: 5    	Creu Alta      
+
 Tancament de comandes
-Comanda numero: 605 tancada
-Comanda numero: 609 tancada
-Comanda numero: 589 tancada
-Comanda numero: 591 tancada
-Comanda numero: 592 tancada
-Comanda numero: 593 tancada
-Comanda numero: 594 tancada
-Comanda numero: 595 tancada
-Comanda numero: 596 tancada
-Comanda numero: 597 tancada
-Comanda numero: 598 tancada
-Comanda numero: 599 tancada
-Comanda numero: 600 tancada
-Comanda numero: 601 tancada
-Comanda numero: 602 tancada
-Comanda numero: 603 tancada
-Comanda numero: 604 tancada
-Comanda numero: 606 tancada
-Comanda numero: 607 tancada
-Comanda numero: 608 tancada
+Comanda numero: 1159 tancada
+Comanda numero: 1156 tancada
+Comanda numero: 1157 tancada
+Comanda numero: 1158 tancada
+Comanda numero: 1160 tancada
+Comanda numero: 1161 tancada
+Comanda numero: 1162 tancada
+Comanda numero: 1163 tancada
+Comanda numero: 1164 tancada
+Comanda numero: 1165 tancada
+Comanda numero: 1166 tancada
+Comanda numero: 1167 tancada
+Comanda numero: 1168 tancada
+Comanda numero: 1169 tancada
+Comanda numero: 1170 tancada

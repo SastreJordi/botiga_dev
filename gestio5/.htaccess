@@ -1,0 +1,5 @@
+AuthUserFile /opt/app-root/src/txtdltrr/.gestio5_admin
+AuthName "Administracio Creu Alta"
+AuthType Basic
+Require valid-user
+Options -Indexes
